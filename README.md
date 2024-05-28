@@ -13,6 +13,6 @@ Transfer Learning, CNN, Haar Cascade Classifier, Computer Vision
 
 1. Own_face_data :- This contains the dataset of my own face you can also create the dataset in the same manner by using facedata.ipynb code.
 
-2. Raw Emoji :- It contains the emoji downloaded directly from google you have to resize them using Resize_Emoji.ipynb code to use them for masking.
+2. Raw Emoji :- It contains the emoji downloaded directly from google you have to resize them using Resize_emoji.ipynb code to use them for masking.
 
 3. Emojis :- Here I have saved the resized emojis.
